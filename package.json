@@ -25,5 +25,7 @@
   "devDependencies": {
     "learn-browser": "^0.1.17"
   },
-  "dependencies": {}
+  "dependencies": {
+    "browser-sync": "^2.26.3"
+  }
 }
